@@ -14,7 +14,6 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <Router>
-
       <Switch>
         <Route exact path="/">
           <Home />
@@ -27,7 +26,6 @@ function App() {
         </Route>
       </Switch>
     </Router>
-
   );
 }
 
