@@ -4,16 +4,10 @@ export default function Nav() {
     return (
         <ul className="nav">
             <li className="nav-item">
-                <a className="nav-link active" href="#">Active</a>
+                <a className="nav-link active" href="/">About</a>
             </li>
             <li className="nav-item">
-                <a className="nav-link" href="#">Link</a>
-            </li>
-            <li className="nav-item">
-                <a className="nav-link" href="#">Link</a>
-            </li>
-            <li className="nav-item">
-                <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                <a className="nav-link" href="/portfolio">Portfolio</a>
             </li>
         </ul>
     )
