@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Portfolio
 
-## Available Scripts
+## Description 
 
-In the project directory, you can run:
+This is a personal portfolio site built with React.js, Twitter Bootstrap, and CSS.
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img width="1634" alt="Screen Shot 2020-08-31 at 4 10 52 PM" src="https://user-images.githubusercontent.com/64296192/91777603-21f42100-eba5-11ea-9b26-294a70119c71.png">
+<img width="1629" alt="Screen Shot 2020-08-31 at 4 11 22 PM" src="https://user-images.githubusercontent.com/64296192/91777597-1ef93080-eba5-11ea-81e7-b30e530127e1.png">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Table of Contents
 
-### `npm test`
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Installation 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+N/A
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage 
 
-### `npm run eject`
+Display my projects and career materials
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+N/A
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Email for permissions before contributing
 
-### Code Splitting
+## Questions
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Contact me at the following for questions:
 
-### Analyzing the Bundle Size
+https://github.com/NickMardon
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+nickmardondigital@gmail.com
 
-### Making a Progressive Web App
+## Tests
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+N/A
