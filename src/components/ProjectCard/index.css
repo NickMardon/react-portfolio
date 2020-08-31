@@ -1,0 +1,10 @@
+.card {
+    margin-top: 14px;
+    height: 100%;
+    width: auto;
+}
+
+.btn-primary {
+    margin: 4px;
+    width: 120px;
+}

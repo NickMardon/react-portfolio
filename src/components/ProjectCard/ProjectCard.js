@@ -1,14 +1,16 @@
 import React from "react";
-
-export default function ProjectCard() {
+import "./index.css";
+export default function ProjectCard(props) {
     return (
-        <div className="card" style={{width: "18rem"}}>
-            <img src="..." className="card-img-top" alt="..."></img>
-                <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
-                    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
-                </div>
+        <div className="card" style={{ width: "18rem" }}>
+            <img src={props.src} className="card-img-top" alt="..."></img>
+            <div className="card-body">
+                <h5 className="card-title">{props.name}</h5>
+                <p className="card-text">{props.description}</p>
+                <a href={props.github} className="btn btn-primary">Github</a>
+                <br></br>
+                <a href={props.deployed} className="btn btn-primary">Deployed</a>
+            </div>
         </div>
     )
 }
